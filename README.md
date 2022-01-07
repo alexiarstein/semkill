@@ -1,2 +1,19 @@
 # semkill
-A semantic process id killer. Terminate a process id by typing the process name. ./semkill name
+
+A "Semantic" Process ID Killer. 
+Looks for a partial or total application or daemon name and ends the process ID related to it. 
+
+--------------------------
+USAGE:
+------
+./semkill name 
+e.g: ./semkill hl_linux
+
+it accepts partial names
+
+INSTALLATION:
+-------------
+move to /usr/bin 
+
+
+Alexia.
