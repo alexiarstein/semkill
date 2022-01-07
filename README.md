@@ -3,6 +3,7 @@
 A "Semantic" Process ID Killer. 
 Looks for a partial or total application or daemon name and ends the process ID related to it. 
 
+
 --------------------------
 USAGE:
 ------
@@ -17,3 +18,7 @@ move to /usr/bin
 
 
 Alexia.
+
+TO DO:
+------
+Further versions will include listing of running processes (ps -u/aux)
