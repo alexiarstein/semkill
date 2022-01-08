@@ -7,7 +7,8 @@ Looks for a partial or total application or daemon name and ends the process ID 
 --------------------------
 USAGE:
 ------
-semkill name 
+semkill name
+
 e.g: semkill hl_linux
 
 it accepts partial names
